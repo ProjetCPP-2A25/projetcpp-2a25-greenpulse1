@@ -1,0 +1,1 @@
+alter table orders add constraint customer_id_fk foreign key (customerid)  references customer (customerid) on delete CASCADE;

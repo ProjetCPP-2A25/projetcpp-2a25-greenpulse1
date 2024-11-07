@@ -40,7 +40,7 @@ CREATE TABLE Employees (
     Hire_date DATE,
     Status VARCHAR(9),
 )
-ALTER TABLE Employees 
+ALTER TABLE Employees (
 ADD CONSTRAINT pk_employees PRIMARY KEY (Id_emp)
 CREATE TABLE Orders(
  Order_id NUMBER NOT NULL,

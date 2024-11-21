@@ -1,0 +1,3 @@
+Leave Type: Sick Leave
+Start Date: 2024-11-21
+End Date: 2024-11-21

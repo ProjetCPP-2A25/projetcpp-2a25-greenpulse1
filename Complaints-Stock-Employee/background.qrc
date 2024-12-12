@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>resources/a.png</file>
+        <file>resources/complaint.png</file>
+        <file>resources/employee.png</file>
+        <file>resources/profil.png</file>
+        <file>resources/purchases.png</file>
+        <file>resources/signout.jpg</file>
+        <file>resources/supplier.png</file>
+        <file>resources/logo.png</file>
+        <file>resources/dashboard.png</file>
+        <file>resources/refresh.png</file>
+        <file>resources/search.jpg</file>
+        <file>resources/refresh1.webp</file>
+        <file>resources/refresh2.jpg</file>
+        <file>resources/ascend.png</file>
+        <file>resources/descend.png</file>
+        <file>resources/exit.png</file>
+        <file>resources/pdf.png</file>
+        <file>resources/stats.png</file>
+        <file>resources/upload.png</file>
+        <file>resources/delete.png</file>
+        <file>resources/add.png</file>
+        <file>resources/modify.png</file>
+        <file>resources/save.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resources/a.png</file>
+        <file>resources/b.png</file>
+        <file>resources/b1.jpg</file>
+        <file>../../../../../Downloads/b2.jpeg</file>
+        <file>resources/stock.png</file>
+        <file>resources/logo.png</file>
+        <file>resources/refresh.png</file>
+        <file>resources/save.png</file>
+        <file>resources/r1.png</file>
+        <file>resources/messagerie.png</file>
+    </qresource>
+</RCC>
